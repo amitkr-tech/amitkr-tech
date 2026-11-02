@@ -1,53 +1,43 @@
-# Hi, I'm Amit Kumar 
+# Hi, I'm Amit Kumar 👋
 
- B.Tech Graduate in Computer Science & Engineering (AI & Data Science)
+B.Tech graduate in Computer Science & Engineering (Artificial Intelligence & Data Science).
 
- Aspiring AI/ML Developer | Python Developer
+I'm working towards an entry-level role in AI/ML. I’m building small projects to strengthen my understanding of Python, machine learning, and application development.
 
-###  About Me
-- Interested in Artificial Intelligence and Machine Learning.
-- Building practical projects using Python and ML.
-- Learning and improving my programming skills every day.
-- Open to entry-level AI/ML and Python Developer opportunities.
+## About Me
+- Interested in practical applications of Artificial Intelligence and Machine Learning.
+- Currently improving my Python and machine-learning fundamentals.
+- I learn by building projects, testing them, and understanding how each part works.
+- Open to fresher opportunities and learning-focused collaborations.
 
-###  Technical Skills
-- **Languages:** Python, Java, SQL
+## Skills I'm Working With
+- **Programming:** Python, Java, SQL
 - **Machine Learning:** Scikit-learn, Random Forest
-- **Libraries:** NumPy, Pandas
-- **Frameworks:** Streamlit, Flask
+- **Data Libraries:** NumPy, Pandas
+- **App Development:** Streamlit, Flask
 - **Tools:** Git, GitHub, VS Code
 
-###  Featured Projects
+## Projects
 
-**1. AI-Based Diabetes Prediction System**
-- ML-based application using Random Forest.
-- Built with Python, Scikit-learn and Streamlit.
-- [GitHub Repository](https://github.com/amitkr-tech/AI-Based-Diabetes-Prediction-System)
-- [Live Demo](https://amit-diabetes-project.streamlit.app/)
+### AI-Based Diabetes Prediction System
+A machine-learning project that estimates diabetes risk from health-related inputs.
+- Built with Python, Scikit-learn, Random Forest, and Streamlit.
+- Uses the Pima Indians Diabetes Dataset and eight input features.
+- [View source code](https://github.com/amitkr-tech/AI-Based-Diabetes-Prediction-System)
+- [Try the live demo](https://amit-diabetes-project.streamlit.app/)
 
-**2. Jarvis AI Voice Assistant**
-- Voice-controlled desktop assistant built with Python.
-- Uses speech recognition and voice responses.
-- [GitHub Repository](https://github.com/amitkr-tech/Jarvis-AI-Voice-Assistant)
+### Jarvis AI Voice Assistant
+A Python desktop assistant designed to respond to voice commands.
+- Explores speech recognition and voice-based responses.
+- [View source code](https://github.com/amitkr-tech/Jarvis-AI-Voice-Assistant)
 
-###  Career Goal
-To develop useful AI and Machine Learning solutions and grow as an AI/ML Developer.
+## Current Focus
+Strengthening Python fundamentals, understanding machine-learning workflows, and improving my projects through practice.
 
-📩 Open to learning, collaboration and entry-level opportunities.
 ---
 
-###  GitHub Stats
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkr-tech&show_icons=true&theme=tokyonight)
 
-###  Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkr-tech&layout=compact&theme=tokyonight)
-
-###  Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
