@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Amit Kumar 👋
 
-<!--
-**amitkr-tech/amitkr-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate in Computer Science & Engineering (AI & Data Science)
 
-Here are some ideas to get you started:
+💻 Aspiring AI/ML Developer | Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- Interested in Artificial Intelligence and Machine Learning.
+- Building practical projects using Python and ML.
+- Learning and improving my programming skills every day.
+- Open to entry-level AI/ML and Python Developer opportunities.
+
+### 🛠️ Technical Skills
+- **Languages:** Python, Java, SQL
+- **Machine Learning:** Scikit-learn, Random Forest
+- **Libraries:** NumPy, Pandas
+- **Frameworks:** Streamlit, Flask
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+
+**1. AI-Based Diabetes Prediction System**
+- ML-based application using Random Forest.
+- Built with Python, Scikit-learn and Streamlit.
+- [GitHub Repository](https://github.com/amitkr-tech/AI-Based-Diabetes-Prediction-System)
+- [Live Demo](https://amit-diabetes-project.streamlit.app/)
+
+**2. Jarvis AI Voice Assistant**
+- Voice-controlled desktop assistant built with Python.
+- Uses speech recognition and voice responses.
+- [GitHub Repository](https://github.com/amitkr-tech/Jarvis-AI-Voice-Assistant)
+
+### 🎯 Career Goal
+To develop useful AI and Machine Learning solutions and grow as an AI/ML Developer.
+
+📩 Open to learning, collaboration and entry-level opportunities.
