@@ -1,4 +1,4 @@
-# Hi, I'm Amit Kumar 👋
+# Hi, I'm Amit Kumar 
 
  B.Tech Graduate in Computer Science & Engineering (AI & Data Science)
 
