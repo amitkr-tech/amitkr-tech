@@ -41,3 +41,7 @@ Strengthening Python fundamentals, understanding machine-learning workflows, and
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkr-tech&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkr-tech&layout=compact&theme=tokyonight)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/amitkrtech)
+- [GitHub](https://github.com/amitkr-tech)
